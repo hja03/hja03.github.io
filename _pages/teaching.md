@@ -2,14 +2,20 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+description: I am a Teaching Assistant at the University of Bath.
 nav: true
 nav_order: 6
-calendar: true
+calendar: false
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+### 2026/2027
+* **Taught CM52077:** Frontiers of Machine Learning
+* **Taught CM52044:** Reading Module in Artificial Intelligence and Machine Learning
+* **Supervised:** 4 BSc dissertation projects
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+---
 
-{% include courses.liquid %}
+### 2025/2026
+* **Taught CM52077:** Frontiers of Machine Learning
+* **Supervised:** 5 MSc dissertation projects
+* **Supervised:** 2 undergraduate interns in the Bath RL Lab
