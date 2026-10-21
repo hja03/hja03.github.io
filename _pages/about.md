@@ -23,6 +23,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD student in the [Bath Reinforcement Learning Laboratory](https://bathrllab.github.io/index.html) at the [University of Bath](https://www.bath.ac.uk/), led by Professor [Özgür Şimşek](https://researchportal.bath.ac.uk/en/persons/özgür-şimşek/). 
+I am a PhD student in the [Bath Reinforcement Learning Laboratory](https://bathrllab.github.io/index.html) at the [University of Bath](https://www.bath.ac.uk/), led by [Professor Özgür Şimşek](https://researchportal.bath.ac.uk/en/persons/özgür-şimşek/). 
 
 My research focuses on hierarchical reinforcement learning and temporal abstraction.
